@@ -3,5 +3,10 @@
   "modLoader": "fabric",
   "maintenance": false,
   "announcement": "🔥 Aurenix aktif!",
-  "mods": []
+  "mods": [
+    {
+      "name": "examplemod.jar",
+      "url": "https://your-site.com/mods/examplemod.jar"
+    }
+  ]
 }
