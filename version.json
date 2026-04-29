@@ -5,18 +5,6 @@
     {
       "name": "fabric-api.jar",
       "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/latest/fabric-api.jar"
-    },
-    {
-      "name": "sodium.jar",
-      "url": "https://cdn.modrinth.com/data/AANobbMI/versions/latest/sodium.jar"
-    },
-    {
-      "name": "lithium.jar",
-      "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/latest/lithium.jar"
-    },
-    {
-      "name": "voicechat.jar",
-      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/latest/voicechat.jar"
     }
   ]
 }
