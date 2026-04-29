@@ -1,7 +1,26 @@
 {
   "minecraftVersion": "1.21.4",
   "modLoader": "fabric",
-  "maintenance": false,
-  "announcement": "🔥 Aurenix aktif!",
-  "mods": []
+  "mods": [
+    {
+      "name": "fabric-api.jar",
+      "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/9z7K2y7g/fabric-api-0.102.0+1.21.4.jar"
+    },
+    {
+      "name": "sodium.jar",
+      "url": "https://cdn.modrinth.com/data/AANobbMI/versions/latest/sodium-fabric.jar"
+    },
+    {
+      "name": "lithium.jar",
+      "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/latest/lithium-fabric.jar"
+    },
+    {
+      "name": "simplevoicechat.jar",
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/latest/voicechat-fabric.jar"
+    },
+    {
+      "name": "meteor.jar",
+      "url": "https://cdn.modrinth.com/data/HrC4zYzK/versions/latest/meteor-client.jar"
+    }
+  ]
 }
